@@ -1,2 +1,3 @@
-# Elevate-Labs-Task-3
-Linear Regression with both simple and multiple regression using scikit-learn.
+# Linear Regression Model
+
+This project demonstrates how to implement and understand simple and multiple linear regression using scikit-learn. It covers the full workflow of generating or importing data, splitting it into training and testing sets, fitting a regression model, and evaluating performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R². For simple regression, the script plots the regression line against actual data to provide visual insight into how the model fits, while in multiple regression it interprets coefficients to explain feature importance. Designed as a beginner-friendly introduction, the project provides both practical coding experience and conceptual understanding of linear regression, making it a solid foundation for more advanced regression and machine learning techniques.
